@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+C:\Users\Strut\source\repos\graph app\classes\Helper.h(53,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GraphAnimation.cpp
+C:\Users\Strut\source\repos\graph app\classes\Helper.h(53,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  graph app.vcxproj -> C:\Users\Strut\source\repos\graph app\x64\Debug\graph app.exe
